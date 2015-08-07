@@ -1,11 +1,11 @@
-# node-iso8583packet-smartvista
+# node-iso8583packet
 
 Igor Askarov juks@juks.ru
-https://github.com/juks/node-iso8583packet-smartvista.git
+https://github.com/juks/node-iso8583packet.git
 
 # DESCRIPTION
 
-node-iso8583packet-smartvista is a Node.js implementation of SmartVista iso8583 packet notation.
+node-iso8583packet is a Node.js implementation of iso8583 packet.
 ```
 
 # REQUIREMENTS
@@ -19,7 +19,7 @@ To be defined
 # SOURCE INSTALL
 
 ``` bash
-$ git clone https://github.com/juks/node-iso8583packet-smartvista.git
+$ git clone https://github.com/juks/node-iso8583packet.git
 ```
 
 # LICENSE

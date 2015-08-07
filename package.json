@@ -1,0 +1,22 @@
+{
+  "name": "iso8583packet",
+  "version": "0.0.1",
+  "description": "Node implementation of iso8583packet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juks/node-iso8583packet.git"
+  },
+  "keywords": [
+    "iso8583packet"
+  ],
+  "author": "Igor Askarov juks@juks.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juks/node-iso8583packet/issues"
+  },
+  "homepage": "https://github.com/juks/node-iso8583packet#readme"
+}
