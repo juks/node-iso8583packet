@@ -1,7 +1,7 @@
 {
-  "name": "iso8583packet",
+  "name": "iso8583-packet",
   "version": "0.0.1",
-  "description": "Node implementation of iso8583packet",
+  "description": "Node implementation of iso8583 packet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/juks/node-iso8583packet/issues"
   },
-  "homepage": "https://github.com/juks/node-iso8583packet#readme"
+  "homepage": "https://github.com/juks/node-iso8583packet#readme",
+  "dependencies": {
+    "iso8583-smartvista": "0.x.x"
+  }
 }
