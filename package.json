@@ -1,6 +1,6 @@
 {
   "name": "iso8583-packet",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Node implementation of iso8583 packet",
   "main": "index.js",
   "scripts": {
