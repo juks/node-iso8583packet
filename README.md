@@ -5,7 +5,7 @@ https://github.com/juks/node-iso8583packet.git
 
 # DESCRIPTION
 
-node-iso8583packet is a Node.js implementation of iso8583 packet.
+Node-iso8583packet is a Node.js implementation of ISO-8583 packet logic. For compleate implementation for ISO-8583 communication see https://github.com/juks/SocketQueue.
 ```
 
 # REQUIREMENTS
